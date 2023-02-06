@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Lucas-Je
 - 👀 I’m interested in mobile application
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lucas@hyperhire.in
 
 <!---
