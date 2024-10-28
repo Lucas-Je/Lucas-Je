@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lucas-Je
-- 👀 I’m interested in mobile application
-- 🌱 I’m currently learning react
+- 👀 I’m interested web3.0
+- 🌱 I’m currently learning [internetcomputer](https://internetcomputer.org/)
 - 📫 How to reach me lucas@hyperhire.in
 
 <!---
